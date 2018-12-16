@@ -5,4 +5,8 @@ Discord Realms is a multipurpose discord bot, it uses the Discord.JS library
  Group | Commands
 ------------ | -------------
 Social | 
+Moderation |
+Global |
 
+## Self Hosting
+Self hosting isnt allowed **yet**, sorry
